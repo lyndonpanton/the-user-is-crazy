@@ -16,6 +16,10 @@
             } catch (OverflowException exception)
             {
                 Console.WriteLine("Error: Input supplied is outside the valid range");
+            } finally
+            {
+                Console.WriteLine();
+                Console.WriteLine("Program complete.");
             }
         } 
     }
