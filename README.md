@@ -24,6 +24,7 @@ Problem 3 – Add a finally block
 Add a finally block that prints a message.
 
 Run your code with a normal input, non-integer input (Bob, say), and a number larger than the maximum integer (2,147,483,647). The error messages for the two invalid inputs should still be displayed and in the message from the finally block should be displayed for all three inputs.
+
 ## Getting Started
 
 n/a
